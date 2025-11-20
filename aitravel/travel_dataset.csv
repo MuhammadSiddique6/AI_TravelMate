@@ -1,0 +1,601 @@
+interest,weather_code,budget,recommended_site,interest_cat,recommended_site_cat
+cultural,61,20444,Kund Malir Beach – Balochistan,1,28
+adventure,96,22999,Malam Jabba – Swat,0,33
+nature,95,10100,Thandiani – Abbottabad,3,59
+adventure,45,8644,Hiran Minar – Sheikhupura,0,20
+historical,53,29400,Sheesh Mahal – Lahore,2,53
+historical,55,29856,Fairy Meadows – Gilgit-Baltistan,2,13
+historical,77,20414,Rakaposhi Base Camp – Nagar,2,46
+adventure,73,28656,Haleji Lake – Thatta,0,17
+adventure,65,9883,Hanna Lake – Quetta,0,18
+adventure,56,11826,Passu Cones – Hunza,0,42
+cultural,48,24812,Margalla Hills – Islamabad,1,34
+adventure,1,4558,Bagh Valley – AJK,0,4
+nature,55,22781,Chitral – KPK,3,7
+historical,51,9958,Hingol National Park – Lasbela,2,19
+nature,55,24972,Kund Malir Beach – Balochistan,3,28
+cultural,65,18793,Deosai Plains – Skardu,1,11
+nature,65,8287,Pir Ghaib Waterfall – Bolan,3,43
+nature,53,25914,Ratti Gali Lake – Neelum Valley,3,48
+adventure,95,26036,Thandiani – Abbottabad,0,59
+adventure,85,11364,Siri Paye Meadows – Shogran,0,54
+cultural,86,23576,Naran Kaghan – KPK,1,38
+historical,73,17100,Attabad Lake – Hunza,2,1
+historical,56,19719,Kund Malir Beach – Balochistan,2,28
+historical,45,11474,Ratti Gali Lake – Neelum Valley,2,48
+adventure,86,22342,Hanna Lake – Quetta,0,18
+nature,48,18767,Mohenjo Daro – Larkana,3,36
+adventure,85,9065,Rawal Lake – Islamabad,0,49
+nature,66,4005,Soon Valley – Khushab,3,56
+historical,85,15298,Passu Cones – Hunza,2,42
+adventure,2,18566,Pir Ghaib Waterfall – Bolan,0,43
+adventure,0,10029,Soon Valley – Khushab,0,56
+historical,81,12800,Katas Raj Temples – Chakwal,2,24
+cultural,77,14774,Data Darbar – Lahore,1,10
+historical,53,19264,Bagh Valley – AJK,2,4
+adventure,73,7982,Kalash Valley – Chitral,0,23
+adventure,2,9957,Shalimar Gardens – Lahore,0,52
+historical,61,24353,Lok Virsa Museum – Islamabad,2,31
+historical,48,15809,Quaid-e-Azam Mausoleum – Karachi,2,45
+nature,48,22235,Faisal Mosque – Islamabad,3,14
+nature,81,27155,Arang Kel – Neelum Valley,3,0
+cultural,81,4625,Katas Raj Temples – Chakwal,1,24
+cultural,53,27544,Clifton Beach – Karachi,1,8
+historical,61,17663,Ranikot Fort – Jamshoro,2,47
+cultural,51,12802,Hingol National Park – Lasbela,1,19
+cultural,61,23915,Chaukhandi Tombs – Karachi,1,6
+nature,61,7444,Kalash Valley – Chitral,3,23
+nature,77,26800,Lal Suhanra Park – Bahawalpur,3,30
+adventure,61,24926,Gorakh Hills – Dadu,0,15
+adventure,66,26077,Naran Kaghan – KPK,0,38
+adventure,96,12781,Gorakh Hills – Dadu,0,15
+cultural,86,7485,Swat Valley – KPK,1,57
+nature,0,9367,Kalash Valley – Chitral,3,23
+nature,1,22939,Greater Iqbal Park – Lahore,3,16
+adventure,75,23110,Shalimar Gardens – Lahore,0,52
+cultural,1,22326,Ranikot Fort – Jamshoro,1,47
+historical,67,13085,Faisal Mosque – Islamabad,2,14
+adventure,96,7380,Shalimar Gardens – Lahore,0,52
+cultural,61,13159,Lahore Fort – Lahore,1,29
+cultural,67,20774,Princess of Hope – Makran Coast,1,44
+cultural,1,21769,Hingol National Park – Lasbela,1,19
+nature,80,19105,Badshahi Mosque – Lahore,3,3
+adventure,80,5632,Rakaposhi Base Camp – Nagar,0,46
+historical,82,9478,Quaid-e-Azam Mausoleum – Karachi,2,45
+historical,53,7476,Naltar Valley – Gilgit,2,37
+nature,66,17247,Chaukhandi Tombs – Karachi,3,6
+historical,53,22903,Banjosa Lake – Rawalakot,2,5
+historical,95,19838,Soon Valley – Khushab,2,56
+cultural,81,8806,Hingol National Park – Lasbela,1,19
+nature,81,9873,Lahore Fort – Lahore,3,29
+historical,48,21559,Derawar Fort – Bahawalpur,2,12
+historical,45,25732,Noor Mahal – Bahawalpur,2,40
+historical,2,21506,Malam Jabba – Swat,2,33
+nature,66,5062,Haleji Lake – Thatta,3,17
+cultural,55,10500,Ratti Gali Lake – Neelum Valley,1,48
+adventure,95,9746,Quaid-e-Azam Mausoleum – Karachi,0,45
+adventure,85,21149,Khewra Salt Mines – Jhelum,0,25
+historical,1,15989,Banjosa Lake – Rawalakot,2,5
+cultural,63,24485,Noor Mahal – Bahawalpur,1,40
+nature,71,19849,Banjosa Lake – Rawalakot,3,5
+cultural,56,4031,Badshahi Mosque – Lahore,1,3
+cultural,85,18667,Rohtas Fort – Jhelum,1,50
+adventure,56,18653,Data Darbar – Lahore,0,10
+cultural,77,16017,Naltar Valley – Gilgit,1,37
+nature,53,12517,Neelum Valley – Azad Kashmir,3,39
+adventure,3,13670,Taxila Museum – Rawalpindi,0,58
+nature,73,24400,Fairy Meadows – Gilgit-Baltistan,3,13
+cultural,61,28323,K2 Base Camp – Skardu,1,22
+cultural,77,6513,Greater Iqbal Park – Lahore,1,16
+adventure,3,24840,Pir Ghaib Waterfall – Bolan,0,43
+historical,55,28054,Quaid-e-Azam Mausoleum – Karachi,2,45
+nature,51,20001,Hunza Valley – Gilgit-Baltistan,3,21
+historical,51,16331,Khewra Salt Mines – Jhelum,2,25
+nature,85,29720,Naran Kaghan – KPK,3,38
+historical,85,12788,Malam Jabba – Swat,2,33
+historical,75,22362,Taxila Museum – Rawalpindi,2,58
+historical,73,15346,Pir Ghaib Waterfall – Bolan,2,43
+historical,81,13220,Malam Jabba – Swat,2,33
+cultural,55,10286,Chitral – KPK,1,7
+cultural,48,7949,Deosai Plains – Skardu,1,11
+adventure,81,5677,Arang Kel – Neelum Valley,0,0
+cultural,61,20692,Lok Virsa Museum – Islamabad,1,31
+nature,95,4587,Gorakh Hills – Dadu,3,15
+nature,81,13696,Naran Kaghan – KPK,3,38
+historical,53,10502,Haleji Lake – Thatta,2,17
+nature,66,22447,Princess of Hope – Makran Coast,3,44
+cultural,53,29549,Ranikot Fort – Jamshoro,1,47
+historical,67,23956,Chaukhandi Tombs – Karachi,2,6
+historical,1,12128,Haleji Lake – Thatta,2,17
+historical,55,9467,Lok Virsa Museum – Islamabad,2,31
+cultural,51,28546,Hanna Lake – Quetta,1,18
+cultural,86,8486,Naran Kaghan – KPK,1,38
+cultural,96,26308,Shalimar Gardens – Lahore,1,52
+historical,0,13867,Bagh Valley – AJK,2,4
+adventure,85,7581,Daman-e-Koh – Islamabad,0,9
+nature,80,5183,Rakaposhi Base Camp – Nagar,3,46
+adventure,67,23466,Fairy Meadows – Gilgit-Baltistan,0,13
+adventure,85,8850,Ratti Gali Lake – Neelum Valley,0,48
+adventure,0,18060,Rawal Lake – Islamabad,0,49
+cultural,55,22251,Clifton Beach – Karachi,1,8
+nature,71,23136,Soon Valley – Khushab,3,56
+nature,96,23109,Kalash Valley – Chitral,3,23
+adventure,99,21189,Naltar Valley – Gilgit,0,37
+adventure,0,15112,Skardu – Gilgit-Baltistan,0,55
+historical,63,13932,Badshahi Mosque – Lahore,2,3
+cultural,57,11339,Ratti Gali Lake – Neelum Valley,1,48
+cultural,48,20257,Pir Ghaib Waterfall – Bolan,1,43
+historical,1,16735,Chaukhandi Tombs – Karachi,2,6
+adventure,57,23393,Ayubia National Park – Abbottabad,0,2
+adventure,73,25457,Rohtas Fort – Jhelum,0,50
+historical,75,16588,Banjosa Lake – Rawalakot,2,5
+cultural,65,23361,Ranikot Fort – Jamshoro,1,47
+nature,65,15246,Hingol National Park – Lasbela,3,19
+nature,71,27578,Badshahi Mosque – Lahore,3,3
+nature,65,17750,Wazir Khan Mosque – Lahore,3,60
+historical,81,8442,Rohtas Fort – Jhelum,2,50
+adventure,73,5269,Ratti Gali Lake – Neelum Valley,0,48
+adventure,86,10589,Princess of Hope – Makran Coast,0,44
+adventure,1,9319,Badshahi Mosque – Lahore,0,3
+historical,75,7186,Ayubia National Park – Abbottabad,2,2
+cultural,61,12712,Rawal Lake – Islamabad,1,49
+historical,55,29939,Khewra Salt Mines – Jhelum,2,25
+nature,86,20946,Shalimar Gardens – Lahore,3,52
+adventure,96,17427,Makli Necropolis – Thatta,0,32
+historical,96,21746,Ratti Gali Lake – Neelum Valley,2,48
+nature,86,13137,Hingol National Park – Lasbela,3,19
+historical,65,5615,Chaukhandi Tombs – Karachi,2,6
+adventure,3,29929,Bagh Valley – AJK,0,4
+cultural,48,17718,Naltar Valley – Gilgit,1,37
+nature,1,29887,Margalla Hills – Islamabad,3,34
+cultural,67,11910,Kumrat Valley – Upper Dir,1,27
+nature,81,24600,Khunjerab Pass – Hunza,3,26
+adventure,66,4385,Hingol National Park – Lasbela,0,19
+nature,85,29175,Sheesh Mahal – Lahore,3,53
+nature,0,5260,Siri Paye Meadows – Shogran,3,54
+cultural,45,4819,Fairy Meadows – Gilgit-Baltistan,1,13
+cultural,86,7627,Kumrat Valley – Upper Dir,1,27
+adventure,61,29054,Rawal Lake – Islamabad,0,49
+nature,48,13146,Passu Cones – Hunza,3,42
+adventure,48,24201,Daman-e-Koh – Islamabad,0,9
+nature,53,19831,Data Darbar – Lahore,3,10
+nature,99,23556,Hiran Minar – Sheikhupura,3,20
+cultural,53,4241,Banjosa Lake – Rawalakot,1,5
+historical,0,26121,Hiran Minar – Sheikhupura,2,20
+adventure,73,24425,Neelum Valley – Azad Kashmir,0,39
+cultural,99,20915,Deosai Plains – Skardu,1,11
+nature,96,4947,Lahore Fort – Lahore,3,29
+historical,55,29497,Margalla Hills – Islamabad,2,34
+cultural,71,10909,Rawal Lake – Islamabad,1,49
+cultural,63,27204,Derawar Fort – Bahawalpur,1,12
+historical,95,16512,Soon Valley – Khushab,2,56
+adventure,71,19501,Rakaposhi Base Camp – Nagar,0,46
+cultural,51,29308,Swat Valley – KPK,1,57
+cultural,86,14941,Ratti Gali Lake – Neelum Valley,1,48
+nature,73,29801,Hingol National Park – Lasbela,3,19
+historical,2,19822,Lok Virsa Museum – Islamabad,2,31
+nature,66,29531,Badshahi Mosque – Lahore,3,3
+nature,96,26136,Hingol National Park – Lasbela,3,19
+nature,51,13185,Derawar Fort – Bahawalpur,3,12
+historical,61,14996,Derawar Fort – Bahawalpur,2,12
+nature,45,17668,Minar-e-Pakistan – Lahore,3,35
+historical,65,14652,Hingol National Park – Lasbela,2,19
+historical,3,25349,Malam Jabba – Swat,2,33
+historical,55,7045,Naran Kaghan – KPK,2,38
+adventure,63,7931,Saidpur Village – Islamabad,0,51
+nature,77,5475,Haleji Lake – Thatta,3,17
+adventure,73,21999,Sheesh Mahal – Lahore,0,53
+cultural,48,14914,Bagh Valley – AJK,1,4
+adventure,75,11070,Derawar Fort – Bahawalpur,0,12
+adventure,81,21549,Derawar Fort – Bahawalpur,0,12
+nature,2,5773,Ayubia National Park – Abbottabad,3,2
+historical,2,16053,Haleji Lake – Thatta,2,17
+historical,63,19676,Soon Valley – Khushab,2,56
+adventure,86,5730,Wazir Khan Mosque – Lahore,0,60
+adventure,61,22484,Makli Necropolis – Thatta,0,32
+cultural,48,17716,Ratti Gali Lake – Neelum Valley,1,48
+historical,85,25669,Kalash Valley – Chitral,2,23
+adventure,82,15336,Siri Paye Meadows – Shogran,0,54
+cultural,73,10897,Badshahi Mosque – Lahore,1,3
+adventure,86,21157,Kalash Valley – Chitral,0,23
+adventure,85,29240,Faisal Mosque – Islamabad,0,14
+adventure,82,24424,Gorakh Hills – Dadu,0,15
+adventure,82,20569,Hunza Valley – Gilgit-Baltistan,0,21
+nature,71,23339,Greater Iqbal Park – Lahore,3,16
+nature,0,15990,Ratti Gali Lake – Neelum Valley,3,48
+cultural,85,20614,Wazir Khan Mosque – Lahore,1,60
+cultural,0,5706,Noor Mahal – Bahawalpur,1,40
+nature,77,16723,Mohenjo Daro – Larkana,3,36
+cultural,80,21356,Hunza Valley – Gilgit-Baltistan,1,21
+nature,53,16998,Rakaposhi Base Camp – Nagar,3,46
+historical,65,14340,Saidpur Village – Islamabad,2,51
+adventure,96,17041,Princess of Hope – Makran Coast,0,44
+historical,45,16165,Lahore Fort – Lahore,2,29
+adventure,45,6808,Lok Virsa Museum – Islamabad,0,31
+adventure,71,24314,Hanna Lake – Quetta,0,18
+nature,45,21355,Sheesh Mahal – Lahore,3,53
+nature,45,17554,Lal Suhanra Park – Bahawalpur,3,30
+nature,48,21686,Khewra Salt Mines – Jhelum,3,25
+historical,56,15746,Greater Iqbal Park – Lahore,2,16
+historical,66,26852,Fairy Meadows – Gilgit-Baltistan,2,13
+cultural,65,5586,Shalimar Gardens – Lahore,1,52
+nature,3,8990,Hiran Minar – Sheikhupura,3,20
+nature,48,22607,Malam Jabba – Swat,3,33
+adventure,66,9228,Haleji Lake – Thatta,0,17
+cultural,95,19030,Makli Necropolis – Thatta,1,32
+historical,66,21824,Pir Ghaib Waterfall – Bolan,2,43
+nature,56,27842,Attabad Lake – Hunza,3,1
+adventure,77,14899,Passu Cones – Hunza,0,42
+historical,82,24065,Saidpur Village – Islamabad,2,51
+nature,77,16937,Kumrat Valley – Upper Dir,3,27
+adventure,75,13528,Taxila Museum – Rawalpindi,0,58
+nature,65,11565,Minar-e-Pakistan – Lahore,3,35
+historical,67,25720,Makli Necropolis – Thatta,2,32
+cultural,99,9156,Minar-e-Pakistan – Lahore,1,35
+historical,82,7673,Passu Cones – Hunza,2,42
+historical,96,12632,Deosai Plains – Skardu,2,11
+cultural,71,9264,Hunza Valley – Gilgit-Baltistan,1,21
+historical,1,29860,Bagh Valley – AJK,2,4
+historical,48,11338,Faisal Mosque – Islamabad,2,14
+nature,0,29605,Rohtas Fort – Jhelum,3,50
+historical,67,23131,Shalimar Gardens – Lahore,2,52
+nature,55,13079,Attabad Lake – Hunza,3,1
+historical,95,21840,Daman-e-Koh – Islamabad,2,9
+historical,61,25449,Malam Jabba – Swat,2,33
+historical,2,11037,Naltar Valley – Gilgit,2,37
+adventure,48,25487,Minar-e-Pakistan – Lahore,0,35
+historical,45,4141,Sheesh Mahal – Lahore,2,53
+historical,86,26892,Noor Mahal – Bahawalpur,2,40
+nature,65,20326,Hunza Valley – Gilgit-Baltistan,3,21
+nature,48,23192,Khewra Salt Mines – Jhelum,3,25
+adventure,85,23635,Passu Cones – Hunza,0,42
+cultural,3,22129,Naran Kaghan – KPK,1,38
+nature,1,19962,Faisal Mosque – Islamabad,3,14
+nature,3,27581,Arang Kel – Neelum Valley,3,0
+nature,81,4218,Hingol National Park – Lasbela,3,19
+cultural,85,14754,Kalash Valley – Chitral,1,23
+historical,67,20449,Sheesh Mahal – Lahore,2,53
+historical,77,17809,Ranikot Fort – Jamshoro,2,47
+cultural,56,15280,Fairy Meadows – Gilgit-Baltistan,1,13
+historical,3,8106,Greater Iqbal Park – Lahore,2,16
+adventure,56,25765,Clifton Beach – Karachi,0,8
+adventure,82,29005,Chitral – KPK,0,7
+adventure,67,27903,Quaid-e-Azam Mausoleum – Karachi,0,45
+nature,86,29981,Hanna Lake – Quetta,3,18
+adventure,66,15547,Hanna Lake – Quetta,0,18
+historical,57,22274,Swat Valley – KPK,2,57
+nature,96,17486,Makli Necropolis – Thatta,3,32
+adventure,96,18806,Passu Cones – Hunza,0,42
+adventure,71,8783,Saidpur Village – Islamabad,0,51
+adventure,85,7994,Deosai Plains – Skardu,0,11
+nature,95,24093,Katas Raj Temples – Chakwal,3,24
+historical,61,20310,Minar-e-Pakistan – Lahore,2,35
+historical,45,4215,Swat Valley – KPK,2,57
+nature,3,26392,Ayubia National Park – Abbottabad,3,2
+adventure,65,5888,Fairy Meadows – Gilgit-Baltistan,0,13
+cultural,99,13708,Naltar Valley – Gilgit,1,37
+historical,45,16158,Banjosa Lake – Rawalakot,2,5
+nature,1,25934,Thandiani – Abbottabad,3,59
+nature,80,10642,Greater Iqbal Park – Lahore,3,16
+nature,86,7837,Thandiani – Abbottabad,3,59
+cultural,51,19131,Pakistan Monument – Islamabad,1,41
+nature,53,19941,Princess of Hope – Makran Coast,3,44
+historical,95,11016,Derawar Fort – Bahawalpur,2,12
+historical,96,15692,Swat Valley – KPK,2,57
+adventure,95,20494,Margalla Hills – Islamabad,0,34
+cultural,65,27965,Derawar Fort – Bahawalpur,1,12
+historical,81,28267,Sheesh Mahal – Lahore,2,53
+historical,1,6072,Greater Iqbal Park – Lahore,2,16
+nature,53,18531,Soon Valley – Khushab,3,56
+historical,66,24219,Khunjerab Pass – Hunza,2,26
+adventure,53,11907,Derawar Fort – Bahawalpur,0,12
+historical,75,6391,Hiran Minar – Sheikhupura,2,20
+historical,1,9350,Rohtas Fort – Jhelum,2,50
+adventure,0,12481,Naran Kaghan – KPK,0,38
+adventure,56,9967,Chitral – KPK,0,7
+cultural,67,24835,Khunjerab Pass – Hunza,1,26
+historical,55,4848,Taxila Museum – Rawalpindi,2,58
+cultural,81,24683,Arang Kel – Neelum Valley,1,0
+historical,95,17640,Lal Suhanra Park – Bahawalpur,2,30
+nature,53,14330,Naltar Valley – Gilgit,3,37
+adventure,80,16884,Rawal Lake – Islamabad,0,49
+cultural,71,4159,Kalash Valley – Chitral,1,23
+historical,86,27819,Soon Valley – Khushab,2,56
+nature,95,8409,Hanna Lake – Quetta,3,18
+adventure,95,11720,Makli Necropolis – Thatta,0,32
+adventure,85,8092,Haleji Lake – Thatta,0,17
+nature,0,6975,Princess of Hope – Makran Coast,3,44
+historical,96,28375,Ranikot Fort – Jamshoro,2,47
+historical,2,23483,Banjosa Lake – Rawalakot,2,5
+nature,1,23639,Naran Kaghan – KPK,3,38
+nature,53,6191,Khunjerab Pass – Hunza,3,26
+historical,48,21092,Haleji Lake – Thatta,2,17
+cultural,81,5425,Ratti Gali Lake – Neelum Valley,1,48
+nature,2,5887,Bagh Valley – AJK,3,4
+historical,56,26005,Passu Cones – Hunza,2,42
+historical,75,29998,Neelum Valley – Azad Kashmir,2,39
+historical,71,29076,Deosai Plains – Skardu,2,11
+adventure,2,20182,Hunza Valley – Gilgit-Baltistan,0,21
+cultural,95,18748,Khunjerab Pass – Hunza,1,26
+adventure,66,13608,Khunjerab Pass – Hunza,0,26
+adventure,75,28858,Chitral – KPK,0,7
+historical,71,25558,Quaid-e-Azam Mausoleum – Karachi,2,45
+nature,53,6761,Skardu – Gilgit-Baltistan,3,55
+historical,57,29768,Khunjerab Pass – Hunza,2,26
+cultural,55,24826,Margalla Hills – Islamabad,1,34
+adventure,55,29096,Hingol National Park – Lasbela,0,19
+nature,0,24033,Greater Iqbal Park – Lahore,3,16
+cultural,3,23397,Ranikot Fort – Jamshoro,1,47
+nature,0,11394,Greater Iqbal Park – Lahore,3,16
+nature,73,22808,Ayubia National Park – Abbottabad,3,2
+adventure,63,15928,Khewra Salt Mines – Jhelum,0,25
+historical,75,19515,Arang Kel – Neelum Valley,2,0
+cultural,75,20678,Neelum Valley – Azad Kashmir,1,39
+cultural,63,24140,Swat Valley – KPK,1,57
+nature,45,9068,Lahore Fort – Lahore,3,29
+cultural,63,5725,Ayubia National Park – Abbottabad,1,2
+cultural,1,10529,Derawar Fort – Bahawalpur,1,12
+nature,61,8971,Hanna Lake – Quetta,3,18
+adventure,56,28213,Ranikot Fort – Jamshoro,0,47
+nature,57,8445,Clifton Beach – Karachi,3,8
+cultural,73,25660,Lahore Fort – Lahore,1,29
+historical,53,6128,Kund Malir Beach – Balochistan,2,28
+adventure,65,18372,Rakaposhi Base Camp – Nagar,0,46
+cultural,45,9188,Gorakh Hills – Dadu,1,15
+nature,71,19240,Skardu – Gilgit-Baltistan,3,55
+cultural,66,12235,Shalimar Gardens – Lahore,1,52
+cultural,51,23185,Princess of Hope – Makran Coast,1,44
+nature,66,24368,Pir Ghaib Waterfall – Bolan,3,43
+cultural,57,14165,Haleji Lake – Thatta,1,17
+adventure,67,10781,Minar-e-Pakistan – Lahore,0,35
+historical,55,25587,Deosai Plains – Skardu,2,11
+nature,77,22406,Ranikot Fort – Jamshoro,3,47
+cultural,61,26234,Kalash Valley – Chitral,1,23
+cultural,65,14523,Sheesh Mahal – Lahore,1,53
+nature,51,12982,Greater Iqbal Park – Lahore,3,16
+historical,75,5916,Deosai Plains – Skardu,2,11
+historical,95,9355,Mohenjo Daro – Larkana,2,36
+historical,0,6124,Rakaposhi Base Camp – Nagar,2,46
+nature,65,26792,Katas Raj Temples – Chakwal,3,24
+cultural,82,23157,Naltar Valley – Gilgit,1,37
+historical,48,26237,Greater Iqbal Park – Lahore,2,16
+nature,71,22575,Chaukhandi Tombs – Karachi,3,6
+adventure,55,15875,Badshahi Mosque – Lahore,0,3
+nature,77,21755,Daman-e-Koh – Islamabad,3,9
+cultural,57,15215,Kumrat Valley – Upper Dir,1,27
+historical,56,7560,Gorakh Hills – Dadu,2,15
+adventure,85,11520,Lal Suhanra Park – Bahawalpur,0,30
+historical,2,11162,Ratti Gali Lake – Neelum Valley,2,48
+historical,80,6056,Pakistan Monument – Islamabad,2,41
+adventure,99,5404,Margalla Hills – Islamabad,0,34
+cultural,51,8814,Haleji Lake – Thatta,1,17
+historical,51,27699,Arang Kel – Neelum Valley,2,0
+cultural,80,15043,Passu Cones – Hunza,1,42
+cultural,81,11759,Greater Iqbal Park – Lahore,1,16
+historical,67,5237,Arang Kel – Neelum Valley,2,0
+historical,99,22662,Faisal Mosque – Islamabad,2,14
+cultural,0,16440,Neelum Valley – Azad Kashmir,1,39
+adventure,99,9083,Lahore Fort – Lahore,0,29
+nature,85,26964,Naran Kaghan – KPK,3,38
+nature,82,7240,Bagh Valley – AJK,3,4
+historical,48,9711,Gorakh Hills – Dadu,2,15
+adventure,67,20945,Ranikot Fort – Jamshoro,0,47
+historical,96,10301,Banjosa Lake – Rawalakot,2,5
+historical,67,8652,Lok Virsa Museum – Islamabad,2,31
+historical,99,22242,Khunjerab Pass – Hunza,2,26
+historical,99,21989,Attabad Lake – Hunza,2,1
+cultural,53,23737,Derawar Fort – Bahawalpur,1,12
+cultural,45,25505,Noor Mahal – Bahawalpur,1,40
+historical,65,6936,Fairy Meadows – Gilgit-Baltistan,2,13
+historical,80,8850,Haleji Lake – Thatta,2,17
+historical,48,25922,Saidpur Village – Islamabad,2,51
+cultural,56,27712,Haleji Lake – Thatta,1,17
+adventure,66,20699,Ratti Gali Lake – Neelum Valley,0,48
+adventure,3,11990,K2 Base Camp – Skardu,0,22
+nature,3,19681,Kund Malir Beach – Balochistan,3,28
+historical,67,19447,Lok Virsa Museum – Islamabad,2,31
+historical,45,21572,Sheesh Mahal – Lahore,2,53
+nature,95,21794,Hanna Lake – Quetta,3,18
+nature,45,21589,Sheesh Mahal – Lahore,3,53
+historical,96,26921,Swat Valley – KPK,2,57
+historical,55,22290,Chitral – KPK,2,7
+historical,67,13439,Naltar Valley – Gilgit,2,37
+cultural,95,29529,Malam Jabba – Swat,1,33
+historical,65,26473,Data Darbar – Lahore,2,10
+historical,66,24205,Arang Kel – Neelum Valley,2,0
+cultural,63,4926,Saidpur Village – Islamabad,1,51
+adventure,67,26499,Rakaposhi Base Camp – Nagar,0,46
+cultural,0,16467,Attabad Lake – Hunza,1,1
+adventure,77,5347,Sheesh Mahal – Lahore,0,53
+nature,53,21995,Kund Malir Beach – Balochistan,3,28
+nature,63,20979,Pir Ghaib Waterfall – Bolan,3,43
+adventure,53,24449,Lal Suhanra Park – Bahawalpur,0,30
+adventure,75,24043,Daman-e-Koh – Islamabad,0,9
+adventure,67,18278,Kumrat Valley – Upper Dir,0,27
+cultural,71,12968,Kalash Valley – Chitral,1,23
+nature,2,13598,Arang Kel – Neelum Valley,3,0
+adventure,67,24128,Sheesh Mahal – Lahore,0,53
+adventure,65,19270,Quaid-e-Azam Mausoleum – Karachi,0,45
+nature,0,24532,Ratti Gali Lake – Neelum Valley,3,48
+nature,55,14794,Deosai Plains – Skardu,3,11
+nature,86,23609,Pir Ghaib Waterfall – Bolan,3,43
+historical,56,12461,Shalimar Gardens – Lahore,2,52
+nature,99,25514,Faisal Mosque – Islamabad,3,14
+nature,3,29208,Hingol National Park – Lasbela,3,19
+adventure,80,19250,Hingol National Park – Lasbela,0,19
+historical,56,12203,Deosai Plains – Skardu,2,11
+historical,96,24972,Mohenjo Daro – Larkana,2,36
+historical,75,14558,Rakaposhi Base Camp – Nagar,2,46
+adventure,80,28750,K2 Base Camp – Skardu,0,22
+adventure,0,28032,Mohenjo Daro – Larkana,0,36
+cultural,99,16462,Pakistan Monument – Islamabad,1,41
+cultural,95,22018,Neelum Valley – Azad Kashmir,1,39
+historical,96,28276,Wazir Khan Mosque – Lahore,2,60
+cultural,45,5325,Naltar Valley – Gilgit,1,37
+cultural,81,4676,Gorakh Hills – Dadu,1,15
+nature,51,9125,Chitral – KPK,3,7
+historical,61,22087,Badshahi Mosque – Lahore,2,3
+cultural,96,24239,Naltar Valley – Gilgit,1,37
+adventure,53,9581,Sheesh Mahal – Lahore,0,53
+adventure,80,24134,Attabad Lake – Hunza,0,1
+cultural,51,11972,K2 Base Camp – Skardu,1,22
+adventure,55,7653,Margalla Hills – Islamabad,0,34
+historical,61,17525,Pir Ghaib Waterfall – Bolan,2,43
+historical,45,5960,K2 Base Camp – Skardu,2,22
+nature,85,9973,Hunza Valley – Gilgit-Baltistan,3,21
+cultural,73,21416,Khewra Salt Mines – Jhelum,1,25
+historical,82,13547,Pir Ghaib Waterfall – Bolan,2,43
+cultural,95,17550,Faisal Mosque – Islamabad,1,14
+cultural,99,6291,Pir Ghaib Waterfall – Bolan,1,43
+nature,77,21233,Sheesh Mahal – Lahore,3,53
+adventure,57,11267,Lahore Fort – Lahore,0,29
+nature,81,14078,Khunjerab Pass – Hunza,3,26
+cultural,75,9820,Data Darbar – Lahore,1,10
+historical,51,25853,Attabad Lake – Hunza,2,1
+historical,71,13556,Khunjerab Pass – Hunza,2,26
+historical,82,10894,Thandiani – Abbottabad,2,59
+historical,81,11016,Noor Mahal – Bahawalpur,2,40
+historical,1,7368,Katas Raj Temples – Chakwal,2,24
+nature,3,15052,Shalimar Gardens – Lahore,3,52
+historical,51,17310,Soon Valley – Khushab,2,56
+nature,65,16962,Arang Kel – Neelum Valley,3,0
+historical,96,13883,Ranikot Fort – Jamshoro,2,47
+historical,57,23728,Malam Jabba – Swat,2,33
+nature,82,10352,Arang Kel – Neelum Valley,3,0
+nature,99,11241,Kund Malir Beach – Balochistan,3,28
+historical,99,15411,Saidpur Village – Islamabad,2,51
+nature,45,21605,Attabad Lake – Hunza,3,1
+historical,66,20688,Siri Paye Meadows – Shogran,2,54
+cultural,51,28705,Wazir Khan Mosque – Lahore,1,60
+historical,1,13936,Data Darbar – Lahore,2,10
+nature,2,25681,Passu Cones – Hunza,3,42
+nature,61,7481,Princess of Hope – Makran Coast,3,44
+cultural,63,29501,Pir Ghaib Waterfall – Bolan,1,43
+historical,73,21182,Deosai Plains – Skardu,2,11
+historical,67,23329,Noor Mahal – Bahawalpur,2,40
+cultural,65,4877,Attabad Lake – Hunza,1,1
+adventure,82,12615,Lal Suhanra Park – Bahawalpur,0,30
+adventure,56,17644,Ranikot Fort – Jamshoro,0,47
+historical,63,25853,Hanna Lake – Quetta,2,18
+adventure,75,8113,Soon Valley – Khushab,0,56
+nature,95,14548,Swat Valley – KPK,3,57
+nature,2,15883,Rohtas Fort – Jhelum,3,50
+adventure,63,19909,Lok Virsa Museum – Islamabad,0,31
+nature,51,28826,Ayubia National Park – Abbottabad,3,2
+cultural,73,11313,Wazir Khan Mosque – Lahore,1,60
+cultural,96,9496,Ranikot Fort – Jamshoro,1,47
+adventure,65,15818,Badshahi Mosque – Lahore,0,3
+cultural,85,21363,Naltar Valley – Gilgit,1,37
+historical,65,26279,Khunjerab Pass – Hunza,2,26
+nature,1,16017,Lal Suhanra Park – Bahawalpur,3,30
+adventure,73,16753,Faisal Mosque – Islamabad,0,14
+adventure,67,13066,Arang Kel – Neelum Valley,0,0
+cultural,66,29690,Rakaposhi Base Camp – Nagar,1,46
+adventure,85,27963,Arang Kel – Neelum Valley,0,0
+historical,51,29209,Margalla Hills – Islamabad,2,34
+nature,81,9032,Skardu – Gilgit-Baltistan,3,55
+adventure,57,27686,Greater Iqbal Park – Lahore,0,16
+cultural,45,29160,Katas Raj Temples – Chakwal,1,24
+nature,75,6115,Fairy Meadows – Gilgit-Baltistan,3,13
+historical,1,17083,Badshahi Mosque – Lahore,2,3
+historical,77,20950,Ratti Gali Lake – Neelum Valley,2,48
+adventure,56,19568,Faisal Mosque – Islamabad,0,14
+historical,2,29487,Neelum Valley – Azad Kashmir,2,39
+nature,45,20500,Khewra Salt Mines – Jhelum,3,25
+adventure,67,6965,Thandiani – Abbottabad,0,59
+cultural,67,9994,Ayubia National Park – Abbottabad,1,2
+cultural,80,16577,Khunjerab Pass – Hunza,1,26
+historical,67,28791,Hingol National Park – Lasbela,2,19
+cultural,66,15598,Naltar Valley – Gilgit,1,37
+cultural,75,16916,Kumrat Valley – Upper Dir,1,27
+cultural,96,22860,Hanna Lake – Quetta,1,18
+cultural,75,24112,Chaukhandi Tombs – Karachi,1,6
+nature,81,25229,Passu Cones – Hunza,3,42
+cultural,85,12137,Noor Mahal – Bahawalpur,1,40
+nature,73,24114,Faisal Mosque – Islamabad,3,14
+adventure,65,16497,Ranikot Fort – Jamshoro,0,47
+cultural,63,26849,Banjosa Lake – Rawalakot,1,5
+cultural,51,22989,Khunjerab Pass – Hunza,1,26
+cultural,95,9420,Banjosa Lake – Rawalakot,1,5
+historical,73,4793,Makli Necropolis – Thatta,2,32
+historical,75,14146,Siri Paye Meadows – Shogran,2,54
+adventure,99,18784,Hanna Lake – Quetta,0,18
+nature,99,19517,Hiran Minar – Sheikhupura,3,20
+nature,3,8385,Naltar Valley – Gilgit,3,37
+cultural,99,23303,Hiran Minar – Sheikhupura,1,20
+nature,51,24962,Neelum Valley – Azad Kashmir,3,39
+historical,53,19838,Arang Kel – Neelum Valley,2,0
+nature,45,11344,Greater Iqbal Park – Lahore,3,16
+nature,96,27738,Thandiani – Abbottabad,3,59
+historical,48,22002,Bagh Valley – AJK,2,4
+nature,95,12857,Thandiani – Abbottabad,3,59
+historical,53,24954,Haleji Lake – Thatta,2,17
+nature,63,25134,Makli Necropolis – Thatta,3,32
+historical,2,12107,Chitral – KPK,2,7
+adventure,71,8046,Noor Mahal – Bahawalpur,0,40
+historical,56,29149,Thandiani – Abbottabad,2,59
+adventure,56,21035,Ratti Gali Lake – Neelum Valley,0,48
+cultural,73,14854,Rawal Lake – Islamabad,1,49
+adventure,0,22277,Kalash Valley – Chitral,0,23
+historical,66,5907,Kumrat Valley – Upper Dir,2,27
+adventure,85,16707,Mohenjo Daro – Larkana,0,36
+nature,55,22494,Quaid-e-Azam Mausoleum – Karachi,3,45
+adventure,48,6528,Lahore Fort – Lahore,0,29
+nature,3,20468,Kund Malir Beach – Balochistan,3,28
+nature,56,13606,Bagh Valley – AJK,3,4
+cultural,57,26208,Minar-e-Pakistan – Lahore,1,35
+adventure,65,29527,Hiran Minar – Sheikhupura,0,20
+cultural,51,18258,K2 Base Camp – Skardu,1,22
+historical,81,28459,Faisal Mosque – Islamabad,2,14
+cultural,71,9884,Greater Iqbal Park – Lahore,1,16
+historical,53,16849,Attabad Lake – Hunza,2,1
+cultural,81,5465,Deosai Plains – Skardu,1,11
+adventure,55,5366,Lal Suhanra Park – Bahawalpur,0,30
+nature,65,25220,Badshahi Mosque – Lahore,3,3
+nature,0,20900,K2 Base Camp – Skardu,3,22
+historical,95,4688,Minar-e-Pakistan – Lahore,2,35
+cultural,45,5930,Passu Cones – Hunza,1,42
+nature,95,26837,Fairy Meadows – Gilgit-Baltistan,3,13
+cultural,67,28810,Rakaposhi Base Camp – Nagar,1,46
+nature,56,8515,Lahore Fort – Lahore,3,29
+nature,75,12864,Kund Malir Beach – Balochistan,3,28
+adventure,57,16292,Ranikot Fort – Jamshoro,0,47
+historical,66,16918,Sheesh Mahal – Lahore,2,53
+historical,45,22574,Greater Iqbal Park – Lahore,2,16
+cultural,81,26576,Hiran Minar – Sheikhupura,1,20
+historical,81,28511,Siri Paye Meadows – Shogran,2,54
+historical,77,20779,Hiran Minar – Sheikhupura,2,20
+cultural,56,21114,Makli Necropolis – Thatta,1,32
+cultural,73,19860,Lok Virsa Museum – Islamabad,1,31
+cultural,73,19134,Pir Ghaib Waterfall – Bolan,1,43
+cultural,82,4836,Greater Iqbal Park – Lahore,1,16
+cultural,56,8758,Makli Necropolis – Thatta,1,32
+cultural,56,12760,Pir Ghaib Waterfall – Bolan,1,43
+cultural,85,17457,Bagh Valley – AJK,1,4
+historical,82,24765,Fairy Meadows – Gilgit-Baltistan,2,13
+cultural,61,25271,Sheesh Mahal – Lahore,1,53
+historical,80,27779,Soon Valley – Khushab,2,56
+historical,67,29549,Soon Valley – Khushab,2,56
+adventure,99,18961,Clifton Beach – Karachi,0,8
+historical,95,6252,Fairy Meadows – Gilgit-Baltistan,2,13
+adventure,61,12811,Thandiani – Abbottabad,0,59
+cultural,3,21181,Khewra Salt Mines – Jhelum,1,25
+adventure,48,7643,Princess of Hope – Makran Coast,0,44
+cultural,0,12499,Rawal Lake – Islamabad,1,49
+adventure,61,23786,Pakistan Monument – Islamabad,0,41
+nature,61,7380,Khewra Salt Mines – Jhelum,3,25
+historical,85,13856,Naltar Valley – Gilgit,2,37
+historical,77,25134,Arang Kel – Neelum Valley,2,0
+adventure,2,28378,Skardu – Gilgit-Baltistan,0,55
+cultural,45,25136,Swat Valley – KPK,1,57
+historical,51,14848,Ayubia National Park – Abbottabad,2,2
+historical,57,13558,Mohenjo Daro – Larkana,2,36
+adventure,53,29125,Daman-e-Koh – Islamabad,0,9
+nature,3,28094,Chaukhandi Tombs – Karachi,3,6
+nature,2,14877,Makli Necropolis – Thatta,3,32
+historical,2,28424,Haleji Lake – Thatta,2,17
+adventure,65,5832,Hanna Lake – Quetta,0,18
+cultural,73,29564,Khunjerab Pass – Hunza,1,26
+nature,77,13821,Gorakh Hills – Dadu,3,15
+historical,82,21200,Chitral – KPK,2,7
+cultural,0,14386,Rakaposhi Base Camp – Nagar,1,46
