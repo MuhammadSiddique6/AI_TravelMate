@@ -138,3 +138,27 @@ exports.getUserProfile = async (req, res) => {
     });
   }
 };
+
+/* ======================================================
+   GET USER NAME & EMAIL (AUTH REQUIRED)
+====================================================== */
+exports.getUserBasicInfo = async (req, res) => {
+  try {
+    // req.user.id is set by auth middleware
+    const user = await User.findById(req.user.id).select("name email"); // Only select name and email
+
+    if (!user) {
+      return res.status(404).json({ message: "User not found" });
+    }
+
+    res.status(200).json({
+      name: user.name,
+      email: user.email,
+    });
+  } catch (error) {
+    res.status(500).json({
+      message: "Error fetching user info",
+      error: error.message,
+    });
+  }
+};
